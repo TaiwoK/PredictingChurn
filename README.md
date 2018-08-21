@@ -8,6 +8,7 @@ First, you need to make sure that you have Java Editor, JDK 1.7, weka 3+, wekar.
 
 Then follow the following steps to run the application:
 Go to command prompt and type "git clone https://github.com/TaiwoK/PredictingChurn.git" to clone the project
+
 Go to Java Editor and click on File then select Import, select from ZIP
 Click on Browse to locate the directory you cloned the project to 
 Click on Import
