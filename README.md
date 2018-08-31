@@ -66,3 +66,5 @@ Total Cost 				# the total money that each subscriber has been charged for using
 Total Duration In 		# the total duration of incoming calls (in Sec) for a specific subscriber in the observed time span
 
 Total Duration Out 		#The total duration of outgoing calls (in Sec) for a specific subscriber in our observed time span
+
+To make use of this code cite as: Kolajo, T. and Adeyemo, A. B. (2012). Data mining technique for predicting telecommunications industry customer churn using both descriptive and predictive algorithms. Computing, Information Systems and Development Informatics Journal. 3(2): 27-34.
